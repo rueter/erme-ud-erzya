@@ -14,8 +14,13 @@ Jack Rueter, Francis Tyers. (2018, January 20). Open Erme Erzya (Version v1.0) h
 
 # About the authors
 Аношкин, V. 1936: Валскень гудок. (AnoshkinV_ValskenjGudok_1936) ()
+
 Брыжински, М. И. (Manuscript~2007): Кирдажт. (BryzhinskijMixail_Kirdazht_manu) (Мордовиянь Кочкур буень Од Мурза)
+
 Дуняшин, А. 1930: Пици-палакст. (DunjashinAlex_Pidsi-palakst_1930) (Самара ёнксонь Покш Толкан)
+
 Глухов, П. 1929: Кедровой пештть. (GluxovP_KedrovojPeshtj_1929) (Ветьке масторонь Цармунь)
+
 Куторкин, А.Д. 1976: Лажныця Сура II. (KutorkinAndrej_LazhnicyaSuraII_1976) (Ветьке масторонь Порецкоень буень Студенец веле)
+
 Четвергов, Е. 1992: Велень вайгельть. (ChetvergovJevgenij_Velenj-vajgeljtj_1992) (Мордовиянь Тумобуень Орданбуе веле)
