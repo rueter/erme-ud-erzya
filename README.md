@@ -6,7 +6,7 @@ The sent_id attribute value is not randomized in works published earlier than 19
 # Cite
 If you use this data set in an academic publication, I would be ever so grateful if you cited it as follows:
 
-Jack Rueter, Francis Tyers. (2018, January 20). Open Erme Erzya (Version v1.0) http://doi.org/10.5281/zenodo.1156096
+Jack Rueter, Francis Tyers. (2018, January 20). Erme UD Erzya (Version v1.0) http://doi.org/10.5281/zenodo.1156096
 
 
 [![DOI](https://zenodo.org/badge/118224395.svg)](https://zenodo.org/badge/latestdoi/118224395)
